@@ -8,7 +8,7 @@
 - import BeautifulSoup from bs4
 - create instance of BeautifulSoup object with parameter- "html code"' and string "html.parser"
 
-``` Now perform the web scraping operations with the instance ```
+- Now perform the web scraping operations with the instance
 
 
 ## Reference of Beautiful Soup

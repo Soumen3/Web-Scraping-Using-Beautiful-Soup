@@ -2,7 +2,7 @@
 
 ## Get the html code of the web page
 
-- use httpx library to get the html code of the page.
+- use httpx or requests library to get the html code of the page.
 
 ## Perform web scraping
 - import BeautifulSoup from bs4
